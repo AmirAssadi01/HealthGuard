@@ -1,0 +1,8 @@
+{
+    "name": "healthguard/healthguard",
+    "description": "HealthGuard web application",
+    "type": "project",
+    "require": {
+        "phpmailer/phpmailer": "^7.0"
+    }
+}
